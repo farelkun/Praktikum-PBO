@@ -5,29 +5,29 @@
 
 ## Output Program
 
-![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/Output%20Tugas%20Praktikum.png?raw=true)
+![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/img/Output%20Tugas%20Praktikum.png?raw=true)
 
 Hasil dari identifikasi benda yang dapat saya temukan di sekitar saya untuk dilaporkan sebagai tugas praktikum adalah
 
 1. Objek Baju
 
-![Objek Baju](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/objek%20baju.png?raw=true)
+![Objek Baju](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/img/objek%20baju.png?raw=true)
 
 2. Objek Baju Main
 
-![Objek Baju Main](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/objek%20baju%20main.jpg?raw=true)
+![Objek Baju Main](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/img/objek%20baju%20main.jpg?raw=true)
 
 3. Objek Baju Tidur
 
-![Objek Baju Tidur](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/objek%20baju%20tidur.jpeg?raw=true)
+![Objek Baju Tidur](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/img/objek%20baju%20tidur.jpeg?raw=true)
 
 4. Objek Kasur
 
-![Objek Kasur](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/objek%20kasur.jpg?raw=true)
+![Objek Kasur](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/img/objek%20kasur.jpg?raw=true)
 
 5. Objek Pintu
 
-![Objek Pintu](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/objek%20pintu.jpeg?raw=true)
+![Objek Pintu](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%201/img/objek%20pintu.jpeg?raw=true)
 
 ## Penjelasan Program
 
