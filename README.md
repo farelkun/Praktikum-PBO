@@ -1,7 +1,8 @@
 # Praktikum-PBO
 Pengumpulan tugas kuliah praktikum PBO
-(Farel Putra Hidayat)
-(TI-2C)
+### Nama : Farel Putra Hidayat
+### NIM : 2041723016
+### Kelas :TI-2C
 
 ## Go to
 
