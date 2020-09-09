@@ -35,4 +35,4 @@ public class Mahasiswa extends MataKuliah{
         System.out.println("Jurusan : "+ jurusan);
     }
 }
-}
+
