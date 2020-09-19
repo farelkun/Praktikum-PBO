@@ -7,18 +7,18 @@
 
 2. Diagram Class
 
-![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%202/Teori/Latihan-1/img/Class%20Diagram.png?raw=true)
+![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan-2/Teori/Latihan-1/img/Class%20Diagram.png?raw=true)
 
 3. Program Java
 
 Class Matakuliah
 
-![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%202/Teori/Latihan-1/img/ssMataKuliah.png?raw=true)
+![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan-2/Teori/Latihan-1/img/ssMataKuliah.png?raw=true)
 
 Class Dosen
 
-![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%202/Teori/Latihan-1/img/ssDosen.png?raw=true)
+![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan-2/Teori/Latihan-1/img/ssDosen.png?raw=true)
 
 Class Mahasiswa
 
-![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan%202/Teori/Latihan-1/img/ssMahasiswa.png?raw=true)
+![Output 1](https://github.com/farelkun/Praktikum-PBO/blob/master/Pertemuan-2/Teori/Latihan-1/img/ssMahasiswa.png?raw=true)
