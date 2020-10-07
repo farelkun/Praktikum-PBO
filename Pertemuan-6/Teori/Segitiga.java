@@ -3,8 +3,8 @@ public class Segitiga extends BangunDatar{
     public float tinggi;
 
     public float luas() {
-        float luas = 1/2 * (alas * tinggi);
+        float luas = (alas * tinggi) / 2;
         System.out.println("Luas Segitiga: " + luas);
         return luas;
-    }   
+    }
 }
