@@ -7,7 +7,7 @@ public class KerajinanDemo {
         System.out.println("Harga Untuk Membuat = "+ topeng.harga);
         topeng.perbaikiKerajinan();
         System.out.println("Harga Untuk Memperbaiki = "+ topeng.harga);
-        System.out.println("Harga Ornamen = "+ topeng.ornamen);
+        System.out.println("Harga Ornamen = "+ topeng.ornamen.harga);
         
     }
 }
