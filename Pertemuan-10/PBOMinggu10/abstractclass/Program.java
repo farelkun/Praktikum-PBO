@@ -1,4 +1,4 @@
-package PBOMinggu10.abstractclass;
+
 
 public class Program {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package PBOMinggu10.abstractclass;
 
 public abstract class Hewan {
     
