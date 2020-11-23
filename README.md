@@ -30,3 +30,7 @@ Pengumpulan tugas kuliah praktikum PBO
 [Pertemuan 10](https://github.com/farelkun/Praktikum-PBO/tree/master/Pertemuan-10)
 
 [Pertemuan 11](https://github.com/farelkun/Praktikum-PBO/tree/master/Pertemuan-11)
+
+[Pertemuan 12](https://github.com/farelkun/Praktikum-PBO/tree/master/Pertemuan-12)
+
+[Pertemuan 13](https://github.com/farelkun/Praktikum-PBO/tree/master/Pertemuan-13)
